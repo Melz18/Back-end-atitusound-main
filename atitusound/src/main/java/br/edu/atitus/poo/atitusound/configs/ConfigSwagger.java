@@ -18,7 +18,7 @@ public class ConfigSwagger {
 						.description("Documentaçao do back end")
 						.version("1.0.0")
 						.contact(new Contact()
-								.name("Desenvolverdor: Fabricio Biasi Brunetto")
+								.name("Desenvolverdor: Fabricio Biasi Brunetto e Gustavo Lopes Melo")
 								.email("fabriciobiasifa-biasi@hotmail.com")));
 					
 	}
